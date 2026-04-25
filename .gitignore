@@ -1,0 +1,15 @@
+# Datasets
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
