@@ -31,6 +31,10 @@ This project analyzes real sales transaction data to identify high-value custome
 - Predicted CLV
 - Repeat Buyer Analysis
 
+## Dataset Availability
+The original dataset is not included in this repository due to confidentiality and business privacy considerations.
+A synthetic or anonymized sample dataset can be shared for demonstration purposes.
+
 ## Author
 Iram Fatima
 Master's Student | Data Science | Data Analytics | Multimodal LLMs
